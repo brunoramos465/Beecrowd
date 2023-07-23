@@ -1,1 +1,1 @@
-# Exercicios resolvidos beecrowd e Nélio Alves
+# Exercicios resolvidos Beecrowd e Nélio Alves
